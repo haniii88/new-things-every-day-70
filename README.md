@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 70 */
+/* New Things Every Day — DaY 70 */
 /* Generates a daily execution record with a computed value */
 
 function dailyLog70() {
